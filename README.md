@@ -40,5 +40,5 @@ bash eval/run_eval.sh
 
 Pre-trained weights for TCRGen-0 and TCRGen-k will be available for download:
 
-- **TCRGen-0 Model**: [Download here](your-anonymous-download-link-here)
-- **TCRGen-k Model**: [Download here](your-anonymous-download-link-here)
+- **TCRGen-0 Model**: [Download here](anonymous-download-link)
+- **TCRGen-k Model**: [Download here](anonymous-download-link)
